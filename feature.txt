@@ -1,3 +1,4 @@
 first change on a branch with no PR
 second change, pushed with no dialog expected
 third change, pushed to a draft PR
+fourth change, ready PR: dialog expected
